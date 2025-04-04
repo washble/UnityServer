@@ -27,7 +27,3 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
-
-### Performance Optimization ###
-
-* Use OpenGLES3 : If use vulkan => Error cause when eating ingredient
