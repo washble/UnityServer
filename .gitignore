@@ -3,6 +3,9 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+#Custom
+./*/[Oo]bj/
+
 # dotenv files
 .env
 
