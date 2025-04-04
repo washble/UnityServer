@@ -1,6 +1,0 @@
-@EatLiveStream_HostAddress = http://localhost:5001
-
-GET {{EatLiveStream_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

@@ -6,4 +6,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+        <Compile Include="D:\Study_Dev\Study_Unity\EatLiveStream\Assets\SharedLibrary\*.cs">
+            <Link>%(Filename)%(Extension)</Link>
+        </Compile>
+    </ItemGroup>
 </Project>

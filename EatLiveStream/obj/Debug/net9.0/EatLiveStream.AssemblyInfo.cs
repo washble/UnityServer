@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EatLiveStream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa801afdbe7c1a7827f552ca672bcf9295b3e42b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EatLiveStream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EatLiveStream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
