@@ -2,7 +2,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddNewtonsoftJson(option =>
+{
+    // Specifies the default settings for property handling during JSON serialization/deserialization.
+    // option.SerializerSettings.ContractResolver = new DefaultContractResolver();
+});
 
 var app = builder.Build();
 
